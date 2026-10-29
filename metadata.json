@@ -1,0 +1,6 @@
+{
+  "name": "QazShop - Онлайн Магазин",
+  "description": "Современный мобильный интернет-магазин с каталогом товаров, корзиной, оформлением заказа и мгновенным уведомлением в Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
